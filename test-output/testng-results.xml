@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14669" started-at="2019-12-14T16:36:16 IST" finished-at="2019-12-14T16:36:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14669" started-at="2019-12-14T16:36:16 IST" finished-at="2019-12-14T16:36:31 IST">
+      <class name="testCases.TC_001_AMZ_Search">
+        <test-method status="PASS" signature="basic()[pri:0, instance:testCases.TC_001_AMZ_Search@853265]" name="basic" is-config="true" duration-ms="4930" started-at="2019-12-14T16:36:16 IST" finished-at="2019-12-14T16:36:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic -->
+        <test-method status="PASS" signature="run()[pri:0, instance:testCases.TC_001_AMZ_Search@853265]" name="run" duration-ms="8990" started-at="2019-12-14T16:36:21 IST" finished-at="2019-12-14T16:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testCases.TC_001_AMZ_Search@853265]" name="close" is-config="true" duration-ms="715" started-at="2019-12-14T16:36:30 IST" finished-at="2019-12-14T16:36:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.TC_001_AMZ_Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
